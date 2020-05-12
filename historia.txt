@@ -2,4 +2,6 @@ Esta es una historia.
 
 Traje el viejo y lo modifico.
 
+MASTER 1
+
 Modificacion del nuevo colaborador.
