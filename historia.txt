@@ -4,4 +4,6 @@ Traje el viejo y lo modifico.
 
 MASTER 1
 
+MASTER 2
+
 Modificacion del nuevo colaborador.
